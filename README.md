@@ -53,12 +53,19 @@ Figure 6: Top Schools Post THS 9th Grade Grade Removal.
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-replaced.PNG)
 
 * How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
+
+  - Math and reading scores by grade: In both the original and the new investigation dataframes, the math and reading scores stayed the same for all school's 9th-12th grade, not including the math and reading score in the "9th" column and "Thomas High School" row values that are now "nan".
+  - Scores by school spending: Since only the math and reading scores of THS 9th grade were manipulated using .loc and "=np.nan", the school spending dataframe was left unchanged.
+  - Scores by school size: Since only the math and reading scores of THS 9th grade were manipulated using .loc and "=np.nan", the school size dataframe was left unchanged.
+  - Scores by school type: Since only the math and reading scores of THS 9th grade were manipulated using .loc and "=np.nan", the school type dataframe was left unchanged.
 
 ##
 Summary
 ##
-Stuff
+Five changes that can be seen after updating the school district analysis with "NaNs" for reading and math scores of the ninth grade at THS are:
+  - Average Math Score: 0.07% decrease.
+  - Average Reading Score: 0.05% increase.
+  - % Passing Math: 0.08% decrease.
+  - % Passing Reading: 0.29% decrease.
+  - % Overall Passing: 0.32% decrease.
+ Based on this summary data, I would have to assert that more information would be needed before concluding that there was cheating by THS 9th graders. Per say the 9th graders had access to all the answers, I would look for trends of much larger drops in average scores after the 9th grade removal (average rading score increased by 0.05%). Then, the fact that the % passing math, % passing reading, and % overall passing all decreased, trends towards the idea that the 9th grade scores were raising grade levels 10-12 grade's, which is peculiar, but at what % should we assume cheating was involved.
