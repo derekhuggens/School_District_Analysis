@@ -43,7 +43,6 @@ Figure 4:
 School summary after replacing Thomas High School 9th graders' math and reading grades with NaN.
 
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/166032441b800a2c55916517800884d610bf679f/Resources/school_summary_replaced.PNG)
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -56,7 +55,6 @@ Figure 5: Top Schools Prior to THS Changes.
 
 Figure 6: Top Schools Post THS 9th Grade Grade Removal.
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-replaced.PNG)
-
 <p>&nbsp;</p>
 
 * How does replacing the ninth-grade scores affect the following:
