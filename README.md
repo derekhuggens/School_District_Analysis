@@ -22,7 +22,6 @@ District summary after replacing Thomas High School 9th graders' math and readin
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/2e88137e338e992c3c2d6585f43a117dd338a6d2/Resources/district_summary_replaced.PNG)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 * How is the school summary affected?
 
