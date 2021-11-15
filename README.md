@@ -2,7 +2,7 @@
 ##
 Overview
 ###
-The purpose of the school district analysis was to help Maria aggregate and report performance trends and patterns of multiple schools to then help guide strategic decisions.
+The purpose of the school district analysis was to help Maria aggregate and report performance trends and patterns of multiple schools to then help guide strategic decisions. The project continued when Thomas High School (THS) 9th Grade score values needed to be removed for an academic dishonesty investigation.
 
 ##
 Results
@@ -45,6 +45,12 @@ School summary after replacing Thomas High School 9th graders' math and reading 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Replacing the ninth graders' math and reading scores did not affect Thomas High School's performance relative to the other schools as the school still sits at the number 2 position when sorting by overall passing percentage.
+
+Figure 5: Top Schools Prior to THS Changes.
+![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-original.PNG)
+
+Figure 6: Top Schools Post THS 9th Grade Grade Removal.
+![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-replaced.PNG)
 
 * How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
