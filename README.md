@@ -21,6 +21,8 @@ District summary after replacing Thomas High School 9th graders' math and readin
 
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/2e88137e338e992c3c2d6585f43a117dd338a6d2/Resources/district_summary_replaced.PNG)
 
+
+
 * How is the school summary affected?
 
 As seen below in Figures 3 and 4: The potential academic dishonesty affected the Thomas High School rows' values within the per school summary dataframe, however, the other 14 schools will remain unnaffected since their respective data values were not manipulated. Thomas High School is still a charter school, it's total student count is 1635, although 461 of its 9th graders' grades were removed, the budget remains the same, and the per student budget as well as the spending ranges per student remains the same until futher notice of strategic changes. 
@@ -42,6 +44,8 @@ School summary after replacing Thomas High School 9th graders' math and reading 
 
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/166032441b800a2c55916517800884d610bf679f/Resources/school_summary_replaced.PNG)
 
+
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Replacing the ninth graders' math and reading scores did not affect Thomas High School's performance relative to the other schools as the school still sits at the number 2 position when sorting by overall passing percentage.
@@ -51,6 +55,8 @@ Figure 5: Top Schools Prior to THS Changes.
 
 Figure 6: Top Schools Post THS 9th Grade Grade Removal.
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-replaced.PNG)
+
+
 
 * How does replacing the ninth-grade scores affect the following:
 
