@@ -58,7 +58,6 @@ Figure 6: Top Schools Post THS 9th Grade Grade Removal.
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/96bd7b2c8de8759a307f10878a4b939c30e6f12a/Resources/top_schools-replaced.PNG)
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 * How does replacing the ninth-grade scores affect the following:
 
