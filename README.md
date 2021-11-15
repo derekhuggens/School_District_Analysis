@@ -21,7 +21,14 @@ District summary after replacing Thomas High School 9th graders' math and readin
 ![image](https://github.com/derekhuggens/School_District_Analysis/blob/2e88137e338e992c3c2d6585f43a117dd338a6d2/Resources/district_summary_replaced.PNG)
 
 * How is the school summary affected?
-As seen below in Figures 3 and 4: 
+As seen below in Figures 3 and 4: The potential academic dishonesty affected the Thomas High School rows' values within the per school summary dataframe, however, the other 14 schools will remain unnaffected since their respective data values were not manipulated. Thomas High School is still a charter school, it's total student count is 1635, although 461 of its 9th graders' grades were removed, the budget remains the same, and the per student budget as well as the spending ranges per student remains the same until futher notice of strategic changes. 
+
+Standardized test grade value changes of Thomas High School 10th-12th graders after 9th grade removal:
+  - Average Math Score: 0.07% decrease.
+  - Average Reading Score: 0.05% increase.
+  - % Passing Math: 0.08% decrease.
+  - % Passing Reading: 0.29% decrease.
+  - % Overall Passing: 0.32% decrease.
 
 Figure 3: 
 School summary before replacing Thomas High School 9th grader math and reading grades.
